@@ -1,4 +1,4 @@
-#Easybank Landing Page
+# Easybank Landing Page
 
 Responsive landing page built using HTML, SCSS and Javascript
 
